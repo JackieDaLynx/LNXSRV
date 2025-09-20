@@ -13,7 +13,7 @@ export const window = {
 export const api = {
     ws: 'ws://195.133.84.125:1370/ws',
     web: 'http://195.133.84.125:1370',
-    // extraToken: token,
+extraToken: token,
 };
 
 export const appPath = '.LNXSRV';
