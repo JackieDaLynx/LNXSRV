@@ -7,13 +7,13 @@ export const window = {
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    title: 'Aurora Launcher',
+    title: 'LNXSRV',
 };
 
 export const api = {
-    ws: 'ws://127.0.0.1:1370/ws',
-    web: 'http://127.0.0.1:1370',
+    ws: 'ws://195.133.84.125:1370/ws',
+    web: 'http://195.133.84.125:1370',
     // extraToken: token,
 };
 
-export const appPath = '.aurora-launcher';
+export const appPath = '.LNXSRV';
